@@ -42,4 +42,8 @@ OpenPubkey community meetings happen on the third Wednesday of the month at 9AM/
 
 # Technical Steering Committee Meetings
 
-The Technical Steering Committee (TSC) will meet once a month. We're still figuring out when the first meeting will be so stay tuned. As soon as we know, we'll post the details here!
+The Technical Steering Committee (TSC) meets monthly on the first Wednesday of the month from 9AM/12PM PT/ET - 10AM/1PM PT/ET. 
+
+## Resources
+* [Technical Steering Committee meeting link](https://meet.google.com/tes-qcdo-jpf)
+* [Agenda for upcoming meetings and previous meeting notes](./meeting-tsc/)
