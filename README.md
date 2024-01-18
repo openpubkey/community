@@ -32,13 +32,22 @@ The Technical Steering Committee is comprised of three members:
 
 To learn more about contributing to OpenPubkey, see our [contributing guidelines](https://github.com/openpubkey/openpubkey/blob/main/CONTRIBUTING.md).
 
+# File An Issue In Community
+
+Issues pertaining to project-wide policy, community norms or processes, or other project-focused topics should be filed here in [openpubkey/community](https://github.com/openpubkey/community). For feature requests, bug reports, technical questions and requests, please file an issue in [openpubkey/openpubkey](https://github.com/openpubkey/openpubkey). 
+
+We ask that you review [existing issues](https://github.com/openpubkey/community/issues) before filing a new one to ensure your issue has not already been addressed.
+
+If you have found what you believe to be a security vulnerability, _DO NOT file an issue_. Instead, please follow our [security disclosure policy](https://github.com/openpubkey/openpubkey/blob/main/SECURITY.md).
+
 # Community Meetings
 
 OpenPubkey community meetings happen on the third Wednesday of the month at 9AM/12PM PT/ET and run for an hour. 
 
 ## Resources
 * [Community meeting link](https://meet.google.com/oom-qgcz-wsy)
-* [Agenda for upcoming meetings and previous meeting notes](./meeting-community/)
+* [Meeting minutes](./meeting-community/)
+* The meeting agenda is managed through HackMD and is posted prior to each meeting in our [Slack channel](#join-our-community-on-slack). 
 
 # Technical Steering Committee Meetings
 
@@ -46,4 +55,5 @@ The Technical Steering Committee (TSC) meets monthly on the first Wednesday of t
 
 ## Resources
 * [Technical Steering Committee meeting link](https://meet.google.com/tes-qcdo-jpf)
-* [Agenda for upcoming meetings and previous meeting notes](./meeting-tsc/)
+* [Meeting minutes](./meeting-tsc/)
+* The meeting agenda is managed through HackMD and is posted prior to each meeting in our [Slack channel](#join-our-community-on-slack). 
