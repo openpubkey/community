@@ -13,8 +13,8 @@ Participants:
 
 # Agenda
 1. [SUI JWKS Oracle and ZK Tokens](#sui-jwks-oracle-and-zk-tokens)
-4. [Additional Use Cases](#additional-use-cases)
-5. [Any Other Business (AoB) and Questions](#any-other-business-aob-and-questions)
+2. [Additional Use Cases](#additional-use-cases)
+3. [Any Other Business (AoB) and Questions](#any-other-business-aob-and-questions)
 
 # Meeting Notes
 
