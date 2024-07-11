@@ -45,7 +45,7 @@ If you have found what you believe to be a security vulnerability, _DO NOT file 
 OpenPubkey community meetings happen on the third Wednesday of the month at 9AM/12PM PT/ET and run for an hour. 
 
 ## Resources
-* [Community meeting link](https://meet.google.com/oom-qgcz-wsy)
+* [Community meeting link](https://meet.google.com/xtp-rfov-cmm)
 * [Meeting minutes](./meeting-community/)
 * The meeting agenda is managed through HackMD and is posted prior to each meeting in our [Slack channel](#join-our-community-on-slack). 
 
@@ -54,6 +54,6 @@ OpenPubkey community meetings happen on the third Wednesday of the month at 9AM/
 The Technical Steering Committee (TSC) meets monthly on the first Wednesday of the month from 9AM/12PM PT/ET - 10AM/1PM PT/ET. 
 
 ## Resources
-* [Technical Steering Committee meeting link](https://meet.google.com/tes-qcdo-jpf)
+* [Technical Steering Committee meeting link](https://meet.google.com/erb-xbju-rbf)
 * [Meeting minutes](./meeting-tsc/)
 * The meeting agenda is managed through HackMD and is posted prior to each meeting in our [Slack channel](#join-our-community-on-slack). 
