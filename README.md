@@ -46,10 +46,10 @@ OpenPubkey community meetings happen on the third Wednesday of the month at 2PM/
 
 If you want to talk about this over hangouts, we are having an community meeting this Wednesday
 
-Video call link: https://meet.google.com/hvc-dywm-wzk
+Video call link: <https://meet.google.com/hvc-dywm-wzk>
 
 ## Resources
-* [Community meeting link](https://meet.google.com/xtp-rfov-cmm)
+* [Community meeting link](https://meet.google.com/hvc-dywm-wzk)
 * [Meeting minutes](./meeting-community/)
 * The meeting agenda is managed through HackMD and is posted prior to each meeting in our [Slack channel](#join-our-community-on-slack). 
 
