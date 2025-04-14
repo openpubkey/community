@@ -42,7 +42,11 @@ If you have found what you believe to be a security vulnerability, _DO NOT file 
 
 # Community Meetings
 
-OpenPubkey community meetings happen on the third Wednesday of the month at 9AM/12PM PT/ET and run for an hour. 
+OpenPubkey community meetings happen on the third Wednesday of the month at 2PM/6PM ET/PM and run for an hour. 
+
+If you want to talk about this over hangouts, we are having an community meeting this Wednesday
+
+Video call link: https://meet.google.com/hvc-dywm-wzk
 
 ## Resources
 * [Community meeting link](https://meet.google.com/xtp-rfov-cmm)
